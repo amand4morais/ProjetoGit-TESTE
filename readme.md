@@ -1,1 +1,1 @@
-Olá, este é apenas um teste para aprender a usar as ferramentas Git e GitHub.
+Olá, este é apenas um teste para aprender a usar as ferramentas Git e GitHub. Ao concluir meus estudos, apresentei um grande avanço em relação a utilização dessas ferramentas.
